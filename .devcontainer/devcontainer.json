@@ -8,8 +8,7 @@
 		"vscode": {
 			"extensions": [
 				"golang.go",
-				"vsls-contrib.codetour",
-				"GitHub.copilot-chat"
+				"vsls-contrib.codetour"
 			]
 		}
 	},
